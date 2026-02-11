@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+# 🚀 <marquee direction="right">SRUSHTY  </marquee>
 
 <div align="center">
 
