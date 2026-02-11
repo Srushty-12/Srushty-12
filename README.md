@@ -1,4 +1,4 @@
-# 🚀 <marquee direction="right">SRUSHTY  </marquee>
+# 🚀 <marquee direction="right"><h1>SRUSHTY </h1>  </marquee>
 
 <div align="center">
 
@@ -90,24 +90,26 @@ Love building efficient applications and exploring AI/ML integration.
 
 ### 🔹 Student Behavioral Data analysis
 **Description:** Student behavioral data analysis it is based on machine learning project in how to find the co-relation between student factors and acurate performance  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**Tech Stack:** C, MySql, Machine learning
+**GitHub:** https://github.com/Srushty-12/PROJECT_REPO  
 
 ---
 
-### 🔹 PROJECT_NAME_2
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹 Cafe Billing System using OR Code
+**Description:** •	Built a database-driven billing system for efficient order processing
+                 •	Implemented QR-based menu access
+                 •	Improved daily sales tracking and reporting
+  
+**Tech Stack:** MySql 
+**GitHub:** https://github.com/Srushty-12/PROJECT_REPO  
 
 ---
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
-- [ ] Certification / Learning  
+- ["Aspiring Web developer with a strong foundation in python,SQL,and frontend technologies, seeking opportunities to build scalable web applications and grow in a dynamic IT environment. ] 
+- ["My goal is to build responsive and user-friendly web applications that solve real world problems.I am continuasly learning and improving my skills to grow as a full-stack developer" ] 
+- [ The Joy of Computing Using Python – NPTEL (2023)] Certification 
 
 ---
 
