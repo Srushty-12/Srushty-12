@@ -1,4 +1,4 @@
-# 🚀 <marquee direction="right"><h1>SRUSHTY </h1>  </marquee>
+# 🚀 <marquee direction="right"><h1 style= "color:red">SRUSHTY </h1>  </marquee>
 
 <div align="center">
 
