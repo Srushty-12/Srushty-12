@@ -87,7 +87,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 <h1 style="color:red">Student Behavioral Data analysis</h1>
+### 🔹Student Behavioral Data analysis
 **Description:** Student behavioral data analysis it is based on machine learning project in how to find the co-relation between student factors and acurate performance  
 **Tech Stack:** C, MySql, Machine learning <br>
 **GitHub:** https://github.com/Srushty-12/PROJECT_REPO  
