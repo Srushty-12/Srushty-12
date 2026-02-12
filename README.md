@@ -3,9 +3,8 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Srushty;💻+Developer;🚀+BE;🌟+Open+to+Collaborations!;🎯+s/w developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+SRUSHTY GS;💻+PYTHON DEVELOPER;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+BUILD PROJECTS" />
 </h1>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/srushty-g-s-7ba404307">
