@@ -1,4 +1,4 @@
-# 🚀<h1 style= "color:red">SRUSHTY </h1> 
+# 🚀<h1 style="color: red;">SRUSHTY </h1> 
 
 <div align="center">
 
